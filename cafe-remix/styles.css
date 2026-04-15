@@ -1,6 +1,9 @@
 body {
   background-image: url("bg-image.jpg");
-  font-family: sans-serif;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* font-family: sans-serif; */
+  font-family: "Lexend", sans-serif;
   padding: 20px;
 }
 
@@ -49,7 +52,7 @@ hr {
 }
 
 h1, h2 {
-  font-family: Impact, serif;
+  font-family: Lexend, serif;
 }
 
 .item p {
