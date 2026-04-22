@@ -15,6 +15,9 @@ body::before {
 margin-top: 20px;
 margin-bottom: 20px;
 }
+h1 {
+    text-align: center;
+}
 
 /* This box class is purely used for explaining how the bootstrap grid system works. */
 .box {
