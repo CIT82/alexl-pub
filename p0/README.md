@@ -15,24 +15,24 @@
 ## Section 2: Site Inventory (Top Half)
 
 ### 1. The Navigation/Menu
-* **Line Numbers:** (e.g., Lines 45-82)
-* **Top-Level Classes:** (Identify classes in the <nav> or <header> tag)
-* **Research:** What do these top-level classes do to the menu's layout?
+* **Line Numbers:** (Lines 41-83)
+* **Top-Level Classes:** Classes used: "header", "header-container", "navmenu", "dropdown", "social-links"
+* **Research:** They all give attributes and properties to headers and dropdown menus 
 
 ### 2. The Logo/Branding
-* **Line Numbers:** (e.g., Lines 30-40)
-* **Top-Level Classes:** (Identify classes in the wrapping tag)
-* **Research:** How is the logo positioned or styled?
+* **Line Number:** (Line 102)
+* **Top-Level Classes:** "accent-text"
+* **Research:** The logo name "SnapFolio" the "Folio" section is underlined with the "accent-text" class leaving the "Snap" normal with no additonal formatting
 
 ### 3. [Insert First Content Section Name, e.g., Hero or Welcome]
-* **Line Numbers:** (e.g., Lines 85-110)
-* **Top-Level Classes:** (Identify classes in the opening <section> tag)
-* **Research:** What defines the height, background, or alignment here?
+* **Line Numbers:** (Lines 88-134)
+* **Top-Level Classes:** "hero section"
+* **Research:** In the main.css theres a section named "hero section" that modifies all hero sections giving them their own height or width values
 
 ### 4. [Insert Second Content Section Name, e.g., About or Features]
-* **Line Numbers:** (e.g., Lines 112-160)
-* **Top-Level Classes:** (Identify classes in the opening <section> tag)
-* **Research:** How does the template handle the container or spacing here?
+* **Line Numbers:** (e.g., Lines 137-242)
+* **Top-Level Classes:** "about section"
+* **Research:** The text auto wraps depending on the size of the window and if its too small the text will show under the template websites image.
 
 
 
