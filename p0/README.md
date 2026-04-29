@@ -53,8 +53,11 @@
 * **Research:** Visually it uses the same font as the rest of the website as well as it being centered.
 
 ## Section 4: The Scripts
-* **Vendor JS Files:** (List the line numbers and names of 2-3 libraries)
-* **Main JS File:** (Identify the line number for the primary script, usually main.js)
+* **Vendor JS Files:** 1067-1077
+- Swiper, allows support for swipe and touch gestures for mobile phones or any device with touchscreen input.
+- Glightbox, allows to display multiple types of media like photos or videos as a responsive overlay.
+
+* **Main JS File:** Line 1080
 
 
 
@@ -64,8 +67,4 @@
 
 
 
-# Phase 1 Head Analysis
-- The template provided comments on what each section was which I am happy for.
-1. Favicons - favicon.png and apple-touch-icon.png both display the websites icon or brand logo on the website tab or homescreen shortcut if on an apple device
-2. Fonts - A custom font used from googles font website, the font name that the website template used is named "Nunito"
-3. Main CSS file - the file where all the styling for the website comes from, if absent or not linked properly the site will only display the contents in the index.html file
+
